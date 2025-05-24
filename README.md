@@ -3,7 +3,7 @@
 <h2>👨‍💻 Software Development Projects:</h2>
 
 - <b>Python</b>
-  - [Construction Assistant Software (Datastructures and Algorithms Demo)](https://github.com/Vbdulhvm33d/Buildsure)
+  - [Construction Assistant Software (BuildSure)](https://github.com/Vbdulhvm33d/Buildsure)
 
 <h2>📺 Popular YouTube Videos</h2>
 
