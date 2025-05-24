@@ -3,7 +3,7 @@
 <h2>👨‍💻 Software Development Projects:</h2>
 
 - <b>Python</b>
-  - [Construction Assistant Software (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
+  - [Construction Assistant Software (Datastructures and Algorithms Demo)](https://github.com/Vbdulhvm33d/Buildsure)
 
 <h2>📺 Popular YouTube Videos</h2>
 
