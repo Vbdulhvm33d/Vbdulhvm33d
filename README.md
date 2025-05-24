@@ -9,6 +9,8 @@
 
 - [A strong Short software pitch](https://youtu.be/yqLQt_m56jw)
 
+<h2>Certifications:</h2>
+
 
 <h2> 🤳 Connect with me:</h2>
 
